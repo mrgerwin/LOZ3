@@ -1,5 +1,5 @@
 # LOZ3
-Image FIles
+Image Files  
 In this lesson you will be modifying both the game.py file and the pygame_functions.py file.  Use your files from last time or download those from LOZ2.  Follow along in the video.  If you get stuck the completed files are here as game1.2.py and pygame_functions2.py.
 
 Video Youtube - https://youtu.be/ZG-4tbIiGc0
