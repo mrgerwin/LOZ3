@@ -6,5 +6,7 @@ Video Youtube - https://youtu.be/ZG-4tbIiGc0
 Video Edpuzzle - https://edpuzzle.com/media/5f0f4b8b142f513ef5ee6531  
 Slides - https://docs.google.com/presentation/d/1p5elkiWBs4ORVPTmsnNAqLcZDetfSPJr9fd2BsvxOrU/edit?usp=sharing  
 
-Extension Ideas -
-You will have to make several image files for the different enemies that you want in the game.  Use GIMP or your favorite image editing software to crop out each enemy from enemies.png that you want so that you can animate them in 32 x 32 px tiles.  Name them using LOZ enemy names so that others can use your image files for their games as well.
+Extension Ideas -  
+You will have to make several image files for the different enemies that you want in the game.  
+Use GIMP or your favorite image editing software to crop out each enemy from enemies.png that you want so that you can animate them in 32 x 32 px tiles.  
+Name them using LOZ enemy names so that others can use your image files for their games as well.  
